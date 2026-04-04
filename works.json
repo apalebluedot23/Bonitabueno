@@ -1,10 +1,23 @@
 [
   {
     "id": 1,
+    "title": "핀칭1",
+    "description": "첫 핀칭 작업 그릇",
+    "year": "2024",
+    "image": "https://raw.githubusercontent.com/Bonitabueno/Bonitabueno/refs/heads/main/images/20240831_123128.webp"
+  },
+  {
+    "id": 2,
+    "title": "핀칭2",
+    "description": "첫 핀칭 작업 그릇",
+    "year": "2024",
+    "image": "https://raw.githubusercontent.com/Bonitabueno/Bonitabueno/refs/heads/main/images/20240831_123128.webp"
+  },
+  {
+    "id": 3,
     "title": "머그컵",
     "description": "처음으로 만든 머그컵입니다.",
     "year": "2024",
-    "image": "https://raw.githubusercontent.com/Bonitabueno/Bonitabueno/refs/heads/main/images/20240831_123128.webp",
-    "thumb": "https://raw.githubusercontent.com/Bonitabueno/Bonitabueno/refs/heads/main/images/20240831_123128.webp"
+    "image": "https://raw.githubusercontent.com/Bonitabueno/Bonitabueno/refs/heads/main/images/20240831_123128.webp"
   }
 ]
